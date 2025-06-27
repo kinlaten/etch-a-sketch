@@ -11,6 +11,8 @@ header{
     gap: 20vw;
 }
 
+
+
 .instruction{
     font-size: 3rem;
 }
@@ -40,7 +42,10 @@ button{
     box-sizing: border-box;
 }
 
-
+.grid--size{
+    font-size: 3rem;
+    width: 5rem;
+}
 
 
 
